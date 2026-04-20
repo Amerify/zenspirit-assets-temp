@@ -1,0 +1,27 @@
+IMAGE #5 — LIFESTYLE AVATAR (Apple-style premium feature grid)
+==============================================================
+
+ORIGINAL TO MODIFY:
+  10_Listing_Images_V2_Lifestyle_Avatar.jpg
+
+ASSETS TO ATTACH:
+  - zen_spirit_color_PICTORIAL_PNG_72ppi_L.png
+  - zen_spirit_color_WORDMARK_PNG_72ppi_L.png
+
+---
+
+PROMPT:
+
+Edit this Amazon listing image into an Apple-product-page-inspired premium feature layout. Aldo specifically referenced loving Apple's landing pages on the call. Keep the headline words at the top — Aldo said "I like the words on the top." Make the following precise changes:
+
+1. Replace the flat circular icon containers currently used for each feature point. Do not use circles. Instead, render each icon as a refined monoline illustration floating directly on a clean off-white (#FAFAFA) background, with each feature separated by a hairline divider (1px, 12% opacity charcoal) OR by generous whitespace only (at least 80px between features). Apple-inspired restraint: no shadows behind icons, no colored fills, just clean monoline strokes in charcoal (#1D1D1F) with an optional thin zen-green accent line on one element per icon.
+
+2. Premium type hierarchy. Main headline (keep existing text but upgrade the typesetting): Roboto at 72pt, weight 500 (medium), tight tracking (-0.02em), charcoal #1D1D1F. Subhead under each icon: Roboto at 28pt regular. Body description under each icon: Roboto 18pt, #6E6E73 (Apple system grey), max 2 lines.
+
+3. Composition. Three or four feature points arranged in a balanced grid. Lots of whitespace — the image should breathe like an iPhone feature page. Centerpiece: an editorial hero shot of the Zen Spirit product (use the updated powder pouch OR the capsule bottle — match whichever version the original referenced). Shot in soft directional light on the off-white background, subtle single shadow, editorial product photography style.
+
+4. Color palette strictly limited to: off-white background (#FAFAFA), charcoal text (#1D1D1F), Apple-grey secondary text (#6E6E73), and one accent color — zen-green (#8BB04E) — used sparingly for a single highlight per feature. Nothing else. No gradients, no drop shadows behind cards, no decorative flourishes.
+
+5. Pouch artwork (if shown) must be updated version — no "Peruvian Superfood," zen-green not gold.
+
+Output: 2000×2000 px, sRGB.

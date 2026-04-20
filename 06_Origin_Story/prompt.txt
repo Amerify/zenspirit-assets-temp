@@ -1,0 +1,28 @@
+IMAGE #6 — ORIGIN STORY (minor refinements)
+===========================================
+
+ORIGINAL TO MODIFY:
+  12_Listing_Images_V1_Origin_Story.jpg
+
+ASSETS TO ATTACH:
+  - zen_spirit_color_PICTORIAL_PNG_72ppi_L.png
+  - zen_spirit_color_WORDMARK_PNG_72ppi_L.png
+  - cert logo - updated (2).png
+
+---
+
+PROMPT:
+
+Edit this Amazon listing image (Zen Spirit origin story). Keep the existing layout, photography treatment, and narrative structure — Aldo scrolled past this image on the call without teardown feedback, indicating approved direction. Apply only these refinements:
+
+1. Replace any hero photography with authentic Machu Picchu / Peruvian Andes imagery. Editorial wide-shot of the Peruvian Andes at golden hour (warm amber-gold sunlight, roughly 30 minutes before sunset), showing terraced rows of maca plants in the foreground and the iconic Andean peaks behind them. If the existing image already shows Andean landscape, retain it. The Machu Picchu visual cue is already used on the capsule bottle Aldo approved, so the origin story must reinforce that same place-identity.
+
+2. Typography: All text set in Roboto — headline 56pt bold, body copy 22pt regular, "Sourced from the Peruvian Andes" badge in Roboto small caps at 18pt. Text overlay should use warm off-white (#F7F1E3) on the photograph, with a subtle 20% charcoal scrim behind the text for legibility.
+
+3. Trust-badge row at the bottom in a clean horizontal line: (a) USDA Organic badge (keep existing), (b) the supplied Certified Vegan (vegan.org) heart-V logo — replace any placeholder vegan badge, (c) leave a placeholder slot labelled "CONTROL UNION" (pending client confirmation on this certification logo), (d) optional: Non-GMO, Gluten Free. All badges equal height, charcoal-on-transparent treatment.
+
+4. Brand marks: If a Zen Spirit logo appears, use the supplied wordmark or pictorial PNG directly.
+
+5. Color palette: warm earth tones (terracotta, amber, sand) drawn from the golden-hour photography + zen-green (#8BB04E) accent on badges and type.
+
+Output: 2000×2000 px, sRGB.

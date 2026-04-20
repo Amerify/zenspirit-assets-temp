@@ -1,0 +1,29 @@
+IMAGE #4 — TASTE & LIFESTYLE ("Mix it with your favorite recipe")
+=================================================================
+
+ORIGINAL TO MODIFY:
+  08_Listing_Images_V1_Taste_Lifestyle.jpg
+
+ASSETS TO ATTACH:
+  - zen_spirit_color_PICTORIAL_PNG_72ppi_L.png
+  - zen_spirit_color_WORDMARK_PNG_72ppi_L.png
+
+---
+
+PROMPT:
+
+Edit this Amazon listing image. Keep the existing typography and font styling (Aldo said "I like this letters and fonts"). Make the following precise changes:
+
+1. Replace the headline copy. Change any "smoothies" reference to: "Mix it with your favorite recipe" as the primary headline. Add a subhead reading: "All the benefits of maca, with the taste you'll actually love." Both lines in Roboto, headline at 64pt bold, subhead at 26pt regular, left-aligned or centered to match the existing composition.
+
+2. Add a woman as the lifestyle subject. Photograph a woman in her late 20s to early 30s, athletic-casual build, in soft athleisure (neutral tones — oatmeal, sage, or cream), in a calm yoga pose or gentle stretch by a sunlit window. She is mid-pose, looking serene and energized, not smiling widely or posing for camera. Natural window light from the left. This must NOT look like a high-intensity workout, gym shot, or Red Bull-style energy stimulant ad — Aldo was emphatic about this on the call. Maca is about sustained calm energy and stamina, not a caffeine hit.
+
+3. Flat-lay vignette beside the woman showing versatility across recipes (not just smoothies). Include: a glass of green smoothie, a bowl of overnight oats with maca sprinkled on top, a small ceramic mug of coffee, and the open Zen Spirit Maca Powder pouch with a small wooden scoop. Arrange as a natural top-down styled food-photography lay, warm natural lighting, shallow depth of field.
+
+4. Pouch artwork in the vignette must be the updated version — no "Peruvian Superfood" text, zen-green accents instead of gold.
+
+5. Color palette: warm beige (#E8DCC4), soft white (#FAF7F2), zen-green accent (#8BB04E), charcoal text (#2A2A2A). No high-saturation colors. No gym equipment, no sweat, no aggressive motion.
+
+6. Use Roboto for all typography. Apply supplied Zen Spirit brand marks if logo appears.
+
+Output: 2000×2000 px, sRGB.

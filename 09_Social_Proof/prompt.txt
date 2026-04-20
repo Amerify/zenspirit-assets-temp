@@ -1,0 +1,28 @@
+IMAGE #9 — SOCIAL PROOF
+=======================
+
+ORIGINAL TO MODIFY:
+  17_Listing_Images_Social_Proof.jpg
+
+ASSETS TO ATTACH:
+  - zen_spirit_color_PICTORIAL_PNG_72ppi_L.png
+
+---
+
+PROMPT:
+
+Edit this Amazon listing social-proof image. Aldo approved this direction on the call without major teardown — keep the overall layout and testimonial treatment. Apply only these additions:
+
+1. Add a prominent hero-stat block at the top of the image. Large display of total review count and average star rating:
+   Primary numeral: "10,000+" (placeholder — Aadil to confirm actual count) in Roboto 96pt bold, zen-green (#8BB04E).
+   Five yellow stars immediately below the numeral, at 72pt, gold-yellow (#FFC107).
+   Supporting text: "Verified Amazon Reviews" in Roboto 28pt regular, charcoal (#2A2A2A).
+   Secondary line: "Average Rating: 4.7 / 5.0" in Roboto 22pt regular.
+
+2. Keep three to four testimonial cards in the lower portion of the image. Each card contains: 5 yellow stars, a 1–2 sentence verified-buyer quote (focus on the three strongest benefit themes — energy, hormone balance, taste), the reviewer's first name + last initial + "Verified Purchase" badge, and a small lifestyle thumbnail (woman drinking smoothie, woman doing yoga, couple in kitchen — calm-energy aesthetic only, no gym shots).
+
+3. Typography: Roboto throughout. Testimonial quote text 20pt regular italic, reviewer names 18pt bold.
+
+4. Color palette: off-white background (#FAFAFA), zen-green accents (#8BB04E), gold-yellow stars (#FFC107), charcoal text (#2A2A2A). Each testimonial card has a 1px hairline border (10% opacity charcoal) — no drop shadows.
+
+Output: 2000×2000 px, sRGB.

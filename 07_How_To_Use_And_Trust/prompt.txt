@@ -1,0 +1,40 @@
+IMAGE #7 — HOW TO USE & TRUST BADGES
+====================================
+
+ORIGINAL TO MODIFY:
+  14_Listing_Images_V1_How_To_Trust.jpg
+
+ASSETS TO ATTACH:
+  - cert logo - updated (2).png
+  - zen_spirit_color_PICTORIAL_PNG_72ppi_L.png
+  - zen_spirit_color_WORDMARK_PNG_72ppi_L.png
+
+---
+
+PROMPT:
+
+Edit this Amazon listing image into a two-section layout combining a how-to-use sequence and a trust-badge panel. Make the following precise changes:
+
+1. Top section titled "How to Enjoy Zen Spirit" — a three-step horizontal sequence:
+   Step 1: Monoline icon of a wooden scoop with powder. Label: "Scoop." Subtitle: "One scoop into your favorite drink or recipe."
+   Step 2: Monoline icon of a stirring spoon in a glass. Label: "Mix." Subtitle: "Blend, stir, or whisk — it dissolves easily."
+   Step 3: Monoline icon of a calm woman silhouette with a subtle glow halo. Label: "Feel the difference." Subtitle: "Noticeable energy and balance within 2–3 weeks of daily use."
+
+   Include a small disclaimer in Roboto 14pt at the bottom of this section: "Consistency matters — most reviewers feel the full effect within 2–3 weeks." (This addresses the real review pattern — Aadil flagged this explicitly on the call.)
+
+2. Bottom section — two columns:
+   Left column: The official Supplement Facts panel as printed on the powder pouch. If not legible in the original, render a clean placeholder block labelled "Supplement Facts" with placeholder rows — Aadil will insert the live panel.
+   Right column: A clean horizontal row of trust badges at equal height, approximately 80px tall each, in this order:
+     1. USDA Organic (keep existing)
+     2. The supplied Certified Vegan (vegan.org) heart-V logo — replace any placeholder vegan mark with this exact file. Do not invent a different vegan badge.
+     3. Placeholder labelled "CONTROL UNION" (pending client-supplied logo)
+     4. Non-GMO Project Verified (if original includes it)
+     5. Gluten-Free
+
+3. Typography: All text in Roboto. Step titles at 32pt bold, subtitles at 18pt regular, section headers at 42pt bold.
+
+4. Color palette: off-white background (#FAFAFA), charcoal text (#2A2A2A), zen-green accent (#8BB04E) for numbered step circles and separator lines.
+
+5. Photorealistic product render of the powder pouch (updated version — no "Peruvian Superfood," zen-green accents) anchors the center of the composition between the two sections.
+
+Output: 2000×2000 px, sRGB.

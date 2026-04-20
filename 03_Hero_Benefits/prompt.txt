@@ -1,0 +1,29 @@
+IMAGE #3 — HERO BENEFITS
+========================
+
+ORIGINAL TO MODIFY:
+  06_Listing_Images_V1_Hero_Benefits.jpg
+
+ASSETS TO ATTACH:
+  - zen_spirit_color_PICTORIAL_PNG_72ppi_L.png
+  - zen_spirit_color_WORDMARK_PNG_72ppi_L.png
+
+---
+
+PROMPT:
+
+Edit this Amazon listing hero image for Zen Spirit Maca Root Powder. Keep the overall two-section layout (benefits module on top, lifestyle photo on bottom). Make the following precise changes:
+
+1. Completely redesign the top benefit block. Currently the "Natural Energy / Stamina / Hormone Balance" row looks flat and unrefined — Aldo flagged this directly. Replace it with three premium benefit cards arranged horizontally on a soft off-white background (#F7F5F0). Each card contains: (a) a custom monoline icon in zen-green (#8BB04E) — sunrise/energy ray for Natural Energy, flexing body silhouette for Stamina, balanced-scale yin-yang for Hormone Balance; (b) a bold Roboto title at 42pt; (c) one-line subhead in Roboto Regular at 22pt describing the benefit. Suggested subheads: "Sustained daily vitality without caffeine crash" / "Endurance for training and life" / "Supports women's cycle balance naturally." Cards should have a subtle soft drop-shadow (8px blur, 15% opacity) and 24px internal padding. Generous whitespace between and around cards.
+
+2. Keep the bottom lifestyle section. Warm natural lighting on the smiling woman, kitchen scene — Aldo explicitly approved this direction on the call.
+
+3. Shrink the pouch render in the lifestyle section. The pouch must render at its real-world size of approximately 7 inches tall. Place it further back in the composition — slightly behind a foreground element like a wooden scoop, bowl, or the woman's hand — so the pouch occupies roughly 25–30% of the lifestyle frame instead of dominating it. Do not crop the pouch; it should be fully visible but appropriately scaled.
+
+4. Pouch artwork must be the updated version — no "Peruvian Superfood" text, zen-green (not gold) accents. If the pouch art in the reference shows gold or "Peruvian Superfood," correct it in-place.
+
+5. Use the supplied Zen Spirit brand marks if any brand logo appears in the layout. Roboto typography throughout.
+
+6. Color palette restricted to: off-white (#F7F5F0), zen-green (#8BB04E), charcoal (#2A2A2A), warm beige skin/lighting tones in the lifestyle photo. No gold, no Red-Bull red, no pure white.
+
+Output: 2000×2000 px, sRGB.

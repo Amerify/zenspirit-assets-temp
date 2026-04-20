@@ -1,0 +1,38 @@
+IMAGE #8 — US VS. THEM COMPARISON
+=================================
+
+ORIGINAL TO MODIFY:
+  15_Listing_Images_Us_vs._Them_Comparison.jpg
+
+ASSETS TO ATTACH:
+  - MACA CAPSULES-AMAZN-IMG - front.png
+  - zen_spirit_color_PICTORIAL_PNG_72ppi_L.png
+
+---
+
+PROMPT:
+
+Edit this Amazon listing comparison chart. Aldo specifically said V1 is better than V2 because it's simpler — keep that simplicity. Also said to elevate the visual treatment with a Pinterest-premium-DTC-brand look. Critically: give the competitor column some legitimate green checkmarks alongside the red Xs so the comparison reads as honest, not as a hit piece. Make the following precise changes:
+
+1. Two-column comparison layout titled "Why Customers Choose Zen Spirit":
+   Left column header "Zen Spirit" with the supplied capsule bottle front render (MACA CAPSULES-AMAZN-IMG - front.png) placed at the top, centered in the column.
+   Right column header "Other Maca Brands" with a silhouette of a generic blurred supplement bottle at the top (pale grey, no brand markings, slightly out of focus).
+
+2. Attribute rows — eight rows, each row spans both columns with a checkmark or X mark for each brand. Use these attributes in this exact order:
+
+   Yellow + Red + Black Maca Blend (Tri-Color):  Zen Spirit ✓  |  Competitors ✗
+   USDA Certified Organic:                       Zen Spirit ✓  |  Competitors ✓  (honest — some competitors are organic)
+   100% Vegan Certified:                         Zen Spirit ✓  |  Competitors ✓  (honest — some are vegan)
+   Gelatinized for Better Absorption:            Zen Spirit ✓  |  Competitors ✗
+   Third-Party Tested for Purity:                Zen Spirit ✓  |  Competitors ✗
+   Peruvian-Sourced:                             Zen Spirit ✓  |  Competitors ✗
+   Multi-Layer Moisture Barrier Pouch:           Zen Spirit ✓  |  Competitors ✗
+   180 Capsules / 8 oz Premium Supply:           Zen Spirit ✓  |  Competitors ✗
+
+   Note the two green checkmarks in the competitor column — Aldo explicitly requested this ("don't put all the eggs in one basket, put some checks on the other product so it looks more natural"). Do not skip this — it's the whole point of V1.
+
+3. Typography: All Roboto. Row labels 22pt regular, column headers 36pt bold, chart title 48pt bold.
+
+4. Color treatment: Green checkmarks use zen-green (#8BB04E). Red X marks use a soft muted red (#D9534F — not a harsh firetruck red). Row dividers are hairlines (1px, 10% opacity). Background: off-white (#FAFAFA). Keep it spacious and premium — aesthetic reference is Pinterest "premium DTC brand comparison chart" results, not cluttered Amazon infographics.
+
+Output: 2000×2000 px, sRGB.

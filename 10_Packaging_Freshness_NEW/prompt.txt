@@ -1,0 +1,37 @@
+IMAGE #10 — NEW: PACKAGING FRESHNESS (create from scratch)
+==========================================================
+
+ORIGINAL TO MODIFY:
+  (none — new image)
+
+ASSETS TO ATTACH:
+  - image (11).png  (pouch barrier spec reference from Aldo)
+  - zen_spirit_color_PICTORIAL_PNG_72ppi_L.png
+  - zen_spirit_color_WORDMARK_PNG_72ppi_L.png
+
+---
+
+PROMPT:
+
+Create a new Amazon listing image from scratch titled "Engineered to Keep Your Maca Fresh." This is a packaging differentiator image Aldo proposed on the call — most competitors use cheap single-layer plastic bags, while Zen Spirit uses an engineered multi-layer barrier pouch. Follow these specifications precisely:
+
+1. Hero element — cross-section cutaway of the pouch wall in the center-left of the composition. Show the three-layer barrier construction, exploded slightly so each layer is visible and labelled:
+   Outer layer: 0.56 mil Soft Touch PET. Label: "Soft Touch PET — Premium matte exterior, food-safe print surface."
+   Middle layer: 0.48 mil Metallized PET (METPET). Label: "Metallized PET — Blocks oxygen and moisture, preserves freshness."
+   Inner layer: 3.50 mil Clear Polyethylene. Label: "Food-Grade PE — FDA 21 CFR 177.1520 compliant direct food contact."
+
+   Each layer rendered as a distinct horizontal band with its own color and texture: outer = matte charcoal, middle = metallic silver with subtle reflective sheen, inner = clear-white with glossy finish. Use leader lines (1px zen-green) connecting each label to its corresponding layer.
+
+2. Right side — side-by-side freshness comparison:
+   On the far right: A thin, sad-looking single-layer plastic bag with generic off-white "MACA POWDER" text, visibly wilting, with condensation droplets on the interior and faded color — labelled "Thin Plastic Bag — Lets oxygen and moisture in."
+   Just inside: The Zen Spirit pouch standing upright, pristine, fully sealed, with crisp zen-green accents and updated artwork (no "Peruvian Superfood") — labelled "Zen Spirit — Multi-layer barrier keeps your maca potent."
+
+   A subtle green check over the Zen Spirit pouch, a subtle red X over the generic bag.
+
+3. Typography: Headline "Engineered to Keep Your Maca Fresh" in Roboto 60pt bold, charcoal #2A2A2A, centered at top. Subhead: "Our 3-layer protective pouch keeps every scoop as potent as the day it was packed." Roboto 26pt regular, below headline. Layer labels in Roboto 16pt.
+
+4. Small legal / credibility caption at the bottom: "FDA 21 CFR 177.1520 compliant  •  Low Oxygen Transmission  •  Low Water Vapor Transmission" in Roboto 14pt regular.
+
+5. Color palette: off-white background (#FAFAFA), charcoal text (#2A2A2A), zen-green accents (#8BB04E), metallic silver for the barrier layer, muted red (#D9534F) for the competitor bag X-mark. Photorealistic 3D rendering for the cross-section, photographic treatment for the pouch comparison.
+
+Output: 2000×2000 px, sRGB.

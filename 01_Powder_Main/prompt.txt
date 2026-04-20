@@ -1,0 +1,27 @@
+IMAGE #1 — POWDER MAIN IMAGE
+============================
+
+ORIGINAL TO MODIFY:
+  02_Main_Product_Images_Option_1.jpg
+
+ASSETS TO ATTACH:
+  - zen_spirit_color_PICTORIAL_PNG_72ppi_L.png
+  - zen_spirit_color_WORDMARK_PNG_72ppi_L.png
+
+---
+
+PROMPT:
+
+Edit this Amazon main product image of the Zen Spirit Organic Maca Root Powder pouch. Keep the exact same composition, pouch silhouette, icon-driven callout layout around the product, pure white (#FFFFFF) background, centered framing, and soft ground shadow under the pouch. Make the following precise changes, and nothing else:
+
+1. Remove the "Peruvian Superfood" text band entirely from the pouch artwork. The area it occupied should blend seamlessly into the surrounding pouch design (matte black with the existing Machu Picchu photographic panel). Do not leave any faint residual text, placeholder, or outline.
+
+2. Change every gold and amber accent on the pouch to zen-green — specifically the "8 OZ / PREMIUM SUPPLY" badge, any gold banding, ribbons, or gold-toned typography on the pouch face. Use a sage/lime zen-green in the range of approximately #A8C97F to #8BB04E. Preserve the zen-green already used on the surrounding callout icons — the pouch's new accent color should match that palette exactly so the full image reads as a single coherent green-and-black identity.
+
+3. Use the supplied Zen Spirit pictorial logo (Buddha + leaf emblem) wherever the brand mark appears on the pouch. Do not retype or redraw the wordmark; if "ZEN SPIRIT" type appears, it must be the supplied brush-stroke wordmark file rendered crisply.
+
+4. Keep all four-to-five perimeter icon callouts exactly as they are (energy, stamina, hormone balance, organic, vegan, with short 1–2 word Roboto labels). Aldo explicitly approved this simplified icon-driven callout approach because the original had too much text to read on mobile.
+
+5. Maintain photorealistic studio lighting on the pouch with a subtle soft shadow directly beneath it. Do not introduce any new props, people, or lifestyle elements. Do not add any new text.
+
+Final output: 2000×2000 px, sRGB, Amazon-main-image compliant (85%+ of the frame occupied by the product).

@@ -1,0 +1,32 @@
+IMAGE #2 — CAPSULES MAIN IMAGE (major rebuild)
+==============================================
+
+ORIGINAL TO MODIFY:
+  04_Main_Product_Images_Option_1.jpg
+
+ASSETS TO ATTACH:
+  - MACA CAPSULES-AMAZN-IMG - front.png
+  - MACA CAPSULES-AMAZN-IMG - back.png
+  - zen_spirit_color_PICTORIAL_PNG_72ppi_L.png
+
+---
+
+PROMPT:
+
+Completely replace the current capsule main image using the attached front and back bottle renders as the authoritative product art. This is a ground-up rebuild, not a minor edit. Follow these instructions precisely:
+
+1. Remove the cardboard box entirely. There must be no cardboard box, no outer packaging, no carton of any kind in the final image. The product ships as a bottle only. Amazon reviewers complain when the box is shown but not received.
+
+2. Show both bottle angles side-by-side. On the left, place the front-label bottle (MACA CAPSULES-AMAZN-IMG - front.png) exactly as provided. On the right, place the back-label bottle (MACA CAPSULES-AMAZN-IMG - back.png) exactly as provided, so the Supplement Facts panel is legible. Both bottles sit at the same baseline, same scale, both upright, both casting a soft shadow directly beneath them. Do not recolor, re-letter, or redraw either bottle — use the supplied renders pixel-for-pixel, only scaling and positioning.
+
+3. Add loose yellow/beige gelatinized veggie capsules in the foreground. Three to five capsules, scattered naturally between and slightly in front of the two bottles. Capsule color: pale yellow/beige gelatin matching the real product (per Amazon customer-review reference). Capsule shape: standard size-00 veggie capsule (approximately 23mm × 8mm, smooth rounded ends). No white pills, no colored pills.
+
+4. Add tri-color maca roots as a supporting visual anchor. Cluster three maca roots in the front-left corner of the composition: one yellow maca root, one red maca root, one black maca root. Roots should be recognizable whole-form maca tubers (round/turnip-shape with tapered root tip), photographed realistically, not stylized. These reinforce the "Made with Yellow, Red & Black Maca Blend" ribbon already printed on the front bottle.
+
+5. Pure white background (#FFFFFF), centered composition, both bottles occupying the upper two-thirds of the frame, capsules and maca roots occupying the lower third. Overall product area should cover 85%+ of the frame for Amazon main-image compliance.
+
+6. No text, no callouts, no badges overlaid on the final image. The bottles already contain all legally required typography. Do not add "Vegan," "Organic," "180 Capsules," or any other text — it's already printed on the supplied labels.
+
+7. Photorealistic studio product lighting, soft and directional from the upper-left at roughly 45°, clean sharp focus on both bottles, slight natural depth-of-field falloff on the foreground capsules and roots.
+
+Output: 2000×2000 px, sRGB.
